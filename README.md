@@ -4,3 +4,5 @@ I added this line in the "features" branch.
 
 Hello, I'm ZhangSan at CUHK CENG!
 
+My student Number is 1155147818.
+
